@@ -1,0 +1,43 @@
+- company: otherocean
+  jobs: []
+- company: zambara
+  jobs: []
+- company: clockworkfox
+  jobs: []
+- company: colab
+  jobs:
+      - post_date: 2018-01-11
+        jobs:
+            - title: Lead Developer
+              link: https://www.colabsoftware.com/careers
+- company: bluedrop
+  jobs:
+      - post_date: 2018-01-18
+        jobs:
+            - title: Software Developer
+              link: https://www.careerbeacon.com/en/posting/719089
+            - title: Multimedia Developer
+              link: https://www.careerbeacon.com/en/posting/719607
+- company: compusult
+  jobs:
+      - post_date: 2018-01-18
+        jobs:
+            - title: Software Engineers/Developers
+              link: https://www.workopolis.com/jobsearch/job/17921414
+- company: zedit
+  jobs:
+      - post_date: 2018-01-18
+        jobs:
+            - title: IT DevOps Support Analyst
+              link: http://jobs.gzed.com/index.php?m=portal&a=details&jobOrderID=10338317
+            - title: Java Developer
+              link: https://www.careerbeacon.com/en/posting/716612
+- company: quorum
+  jobs:
+      - post_date: 2018-01-25
+        jobs:
+            - title: Back-End Web Developer
+              link: https://www.careerbeacon.com/en/posting/723319/quorum-information-systems-inc/back-end-web-developer/st-john-s
+            - title: Front-End Web Developer
+              link: https://www.careerbeacon.com/en/posting/723318/quorum-information-systems-inc/front-end-web-developer/st-john-s
+

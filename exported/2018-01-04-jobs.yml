@@ -1,0 +1,20 @@
+- company: otherocean
+  jobs:
+      - post_date: 2018-01-04
+        jobs:
+            - title: Software Programmer
+              link: https://www.jobbank.gc.ca/jobsearch/jobposting/25557222
+            - title: Video Game Designer
+              link: https://www.jobbank.gc.ca/jobsearch/jobposting/25530884
+- company: zambara
+  jobs:
+      - post_date: 2018-01-04
+        jobs:
+            - title: Part time developer
+              link: https://www.zambara.net/team
+- company: clockworkfox
+  jobs:
+      - post_date: 2018-01-04
+        jobs:
+            - title: Backend Web Developer
+              link: http://clockworkfoxstudios.com/back-end-web-developer/

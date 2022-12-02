@@ -1,0 +1,170 @@
+- company: inspectar
+  jobs:
+    -
+      post_date: 2020-01-30
+      jobs:
+        - title: C# Developer
+          link: https://www.inspectar.com/careers/c-sharp-developer
+    -
+      post_date: 2020-01-30
+      jobs:
+        - title: Unity Developer
+          link: https://www.inspectar.com/careers/unity-developer
+        - title: Engineering COOP Student
+          link: https://www.inspectar.com/careers/engineering-coop-student
+- company: vision33
+  jobs:
+    -
+      post_date: 2020-01-30
+      jobs:
+        - title: "Software Developer"
+          link: "https://jobs.vision33.com/careers/31076-Vision33/jobs/13154698-Software-Developer-Open-Canada-Location"
+- company: govnl
+  jobs:
+    -
+      post_date: 2020-01-30
+      jobs:
+        - title: Senior Systems Analyst (Database Administrator)
+          link: https://www.hiring.gov.nl.ca/Jobs.aspx/Details/23318
+- company: worldfurexchange
+  jobs:
+    -
+      post_date: 2020-01-30
+      jobs:
+        - title: Software developer
+          indeed: 8f381a1eb41372b4
+- company: colab
+  jobs:
+    -
+      post_date: 2020-01-16
+      jobs:
+        - title: Senior Software Architect
+          link: https://colabsoftware.humi.ca/job-board/software+development/1582
+    -
+      post_date: 2019-09-12
+      jobs:
+        - title: Security Analyst
+          link: https://colabsoftware.humi.ca/job-board/software+development/1064
+        - title: Senior Backend Developer
+          link: https://colabsoftware.humi.ca/job-board/software+development/1065
+        - title: Integration Developer
+          link: https://colabsoftware.humi.ca/job-board/software+development/1067
+- company: mysa
+  jobs:
+    -
+      post_date: 2020-01-16
+      jobs:
+        - title: "QA Lead"
+          link: "https://jobs.careerbeacon.com/details/qa-lead/1592210"
+    -
+      post_date: 2020-01-09
+      jobs:
+        - title: "Software Developers"
+          link: "https://jobs.careerbeacon.com/details/software-developers/1590990"
+        - title: "QA Analyst"
+          link: "https://jobs.careerbeacon.com/details/qa-analyst/1590599"
+        - title: "Software Support Specialist"
+          link: "https://jobs.careerbeacon.com/details/software-support-specialist/1590598"
+        - title: "UI/UX Designer"
+          link: "https://jobs.careerbeacon.com/details/uiux-designer/1590597"
+- company: milkmoovement
+  jobs:
+    -
+      post_date: 2020-01-09
+      jobs:
+        - title: "Senior Developer"
+          link: "https://www.milkmoovement.com/careers/senior-developer"
+        - title: "Junior Developer (Work Term) Spring 2020"
+          link: "https://www.milkmoovement.com/careers/junior-developer-work-term-spring-2020"
+- company: skyhawk
+  jobs:
+    -
+      post_date: 2020-01-09
+      jobs:
+        - title: "Senior Software Developer"
+          indeed: "f8a7e0b2facadf24"
+- company: celtx
+  jobs:
+    -
+      post_date: 2020-01-09
+      jobs:
+        - title: Web Application Developer - Co-op Term
+          link: https://hire.withgoogle.com/public/jobs/celtxcom/view/P_AAAAAAGAABPHayulgamfl0
+- company: hatch
+  jobs:
+    -
+      post_date: 2019-12-19
+      jobs:
+        - title: "Junior .Net Software Developer"
+          link: "https://jobs.hatch.com/job/St_-John's-Junior-_Net-Software-Developer-NL/615258200"
+- company: mentic
+  jobs:
+    -
+      post_date: 2019-11-28
+      jobs:
+        - title: "Web Developer"
+          link: "https://www.jobbank.gc.ca/jobsearch/jobposting/31765065"
+- company: inmarsat
+  jobs:
+    -
+      post_date: 2019-10-31
+      jobs:
+        - title: "Senior Cloud Engineer"
+          link: "https://www.smartrecruiters.com/Inmarsat/743999697642667-senior-cloud-engineer"
+- company: compusult
+  jobs:
+    -
+      post_date: 2018-12-06
+      jobs:
+        - title: "Software Engineers/Developers (Entry and Senior Level)"
+          link: "https://www.compusult.com/web/guest/careers"
+- company: verafin
+  jobs:
+    -
+      post_date: 2019-10-31
+      jobs:
+        - title: Database Administrator
+          link: https://verafin.secure.force.com/apply?id=a173b00000CTYqwAAH
+    -
+      post_date: 2019-04-18
+      jobs:
+        - title: Software Developer
+          link: https://verafin.secure.force.com/apply?id=a17C000000Bhqb8IAB
+- company: kraken
+  jobs:
+    -
+      post_date: 2019-10-31
+      jobs:
+        - title: "Software Developer"
+          link: "https://jobs.careerbeacon.com/details/software-developer/1564469"
+    -
+      post_date: 2019-10-10
+      jobs:
+        - title: "Computer Vision Engineer"
+          link: "https://jobs.careerbeacon.com/details/computer-vision-engineer/1575738"
+- company: lemur
+  jobs:
+    -
+      post_date: 2019-06-13
+      jobs:
+        - title: "Embedded Systems Engineer / Developer"
+          link: https://www.bluedriver.com/about-us/careers
+    -
+      post_date: 2019-03-07
+      jobs:
+        - title: "Software Developer / Engineer"
+          indeed: ffade93e169e0680
+- company: heyorca
+  jobs:
+    -
+      post_date: 2018-05-16
+      jobs:
+        - title: Experienced Software Developer (Fulltime)
+          link: https://secure.collage.co/jobs/heyorca/11328
+- company: nlrt
+  jobs:
+    -
+      post_date: 2019-05-02
+      jobs:
+        - title: "IT Engineer"
+          link: "http://nlrt.ca/careers.html"

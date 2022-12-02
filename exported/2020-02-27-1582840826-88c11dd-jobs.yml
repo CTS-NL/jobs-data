@@ -1,0 +1,189 @@
+- company: celtx
+  jobs:
+    -
+      post_date: 2020-02-27
+      jobs:
+        - title: Software QA Specialist
+          link: https://hire.withgoogle.com/public/jobs/celtxcom/view/P_AAAAAAGAABPNlA5zDBUPVc
+- company: vision33
+  jobs:
+    -
+      post_date: 2020-02-27
+      jobs:
+        - title: Software Developer
+          link: https://jobs.vision33.com/careers/31076-Vision33/jobs/13154698-Software-Developer-Open-Canada-Location
+- company: easternhealth
+  jobs:
+    -
+      post_date: 2020-02-27
+      jobs:
+        - title: Computer Programmer/Analyst
+          link: https://www.careerbeacon.com/en/job/1599442/eastern-health/computer-programmer-analyst-2-positions-repost/st-john-s
+- company: mysa
+  jobs:
+    -
+      post_date: 2020-02-27
+      jobs:
+        - title: "Software Developer"
+          indeed: e38c0fbc6ef7d2e6
+    -
+      post_date: 2020-02-20
+      jobs:
+        - title: "Senior Embedded Developer"
+          indeed: 8e7ef606cf47c1c6
+    -
+      post_date: 2020-01-09
+      jobs:
+        - title: "QA Analyst"
+          indeed: "a9df069a22a97a56"
+        - title: "Software Support Specialist"
+          indeed: "718cbbe6eee37695"
+        - title: "UI/UX Designer"
+          indeed: "e230edb5b3b9f91d"
+- company: verafin
+  jobs:
+    -
+      post_date: 2019-10-31
+      jobs:
+        - title: Database Administrator
+          link: https://verafin.secure.force.com/apply?id=a173b00000CTYqwAAH
+    -
+      post_date: 2019-04-18
+      jobs:
+        - title: Software Developer
+          link: https://verafin.secure.force.com/apply?id=a17C000000Bhqb8IAB
+- company: compusult
+  jobs:
+    -
+      post_date: 2018-12-13
+      jobs:
+        - title: "Software Developer"
+          link: "https://www.ziprecruiter.com/jobs/compusult-limited-bfdc1320/software-developer-d9084894"
+    -
+      post_date: 2018-12-06
+      jobs:
+        - title: "Software Engineers/Developers (Entry and Senior Level)"
+          link: "https://www.compusult.com/web/guest/careers"
+- company: johnson
+  jobs:
+    -
+      post_date: 2020-02-13
+      jobs:
+        - title: Developer, Customer Relationship Centre of Excellence
+          link: 'https://johnson.njoyn.com/cl2/xweb/Xweb.asp?tbtoken=Z11cRRgXCG4BZ3F0MVRQCFo%2FBhVEcFEpd0hYUC4FExYrKkJqUEAYcWR3BwkbVhJaS3YqWA%3D%3D&chk=ZVpaShw%3D&page=jobdetails&JobID=J0220-0108&BRID=254248'
+- company: radient
+  jobs:
+    -
+      post_date: 2020-02-13
+      jobs:
+        - title: Senior Software Developer
+          indeed: d44b41a571f52272
+        - title: Intermediate Software Developer
+          indeed: ac82b2ec0fc5d20d
+        - title: Software Quality Assurance (QA) Specialist
+          indeed: 05ca3f1385ef0786
+- company: inspectar
+  jobs:
+    -
+      post_date: 2020-01-30
+      jobs:
+        - title: C# Developer
+          link: https://www.inspectar.com/careers/c-sharp-developer
+    -
+      post_date: 2020-01-30
+      jobs:
+        - title: Unity Developer
+          link: https://www.inspectar.com/careers/unity-developer
+        - title: Engineering COOP Student
+          link: https://www.inspectar.com/careers/engineering-coop-student
+- company: worldfurexchange
+  jobs:
+    -
+      post_date: 2020-01-30
+      jobs:
+        - title: Software developer
+          indeed: 8f381a1eb41372b4
+- company: colab
+  jobs:
+    -
+      post_date: 2020-01-16
+      jobs:
+        - title: Senior Software Architect
+          link: https://colabsoftware.humi.ca/job-board/software+development/1582
+    -
+      post_date: 2019-09-12
+      jobs:
+        - title: Security Analyst
+          link: https://colabsoftware.humi.ca/job-board/software+development/1064
+        - title: Senior Backend Developer
+          link: https://colabsoftware.humi.ca/job-board/software+development/1065
+        - title: Integration Developer
+          link: https://colabsoftware.humi.ca/job-board/software+development/1067
+- company: milkmoovement
+  jobs:
+    -
+      post_date: 2020-01-09
+      jobs:
+        - title: "Senior Developer"
+          link: "https://www.milkmoovement.com/careers/senior-developer"
+        - title: "Junior Developer (Work Term) Spring 2020"
+          link: "https://www.milkmoovement.com/careers/junior-developer-work-term-spring-2020"
+- company: hatch
+  jobs:
+    -
+      post_date: 2019-12-19
+      jobs:
+        - title: "Junior .Net Software Developer"
+          link: "https://jobs.hatch.com/job/St_-John's-Junior-_Net-Software-Developer-NL/615258200"
+- company: mentic
+  jobs:
+    -
+      post_date: 2019-11-28
+      jobs:
+        - title: "Web Developer"
+          link: "https://www.jobbank.gc.ca/jobsearch/jobposting/31765065"
+- company: inmarsat
+  jobs:
+    -
+      post_date: 2019-10-31
+      jobs:
+        - title: "Senior Cloud Engineer"
+          link: "https://www.smartrecruiters.com/Inmarsat/743999697642667-senior-cloud-engineer"
+- company: kraken
+  jobs:
+    -
+      post_date: 2019-10-31
+      jobs:
+        - title: "Software Developer"
+          link: "https://jobs.careerbeacon.com/details/software-developer/1564469"
+    -
+      post_date: 2019-10-10
+      jobs:
+        - title: "Computer Vision Engineer"
+          link: "https://jobs.careerbeacon.com/details/computer-vision-engineer/1575738"
+- company: lemur
+  jobs:
+    -
+      post_date: 2019-06-13
+      jobs:
+        - title: "Embedded Systems Engineer / Developer"
+          link: https://www.bluedriver.com/about-us/careers
+    -
+      post_date: 2019-03-07
+      jobs:
+        - title: "Software Developer / Engineer"
+          link: https://www.bluedriver.com/about-us/careers
+- company: heyorca
+  jobs:
+    -
+      post_date: 2018-05-16
+      jobs:
+        - title: Experienced Software Developer (Fulltime)
+          link: https://secure.collage.co/jobs/heyorca/11328
+- company: nlrt
+  jobs:
+    -
+      post_date: 2019-05-02
+      jobs:
+        - title: "IT Engineer"
+          link: "http://nlrt.ca/careers.html"

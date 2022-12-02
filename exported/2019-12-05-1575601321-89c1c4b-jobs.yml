@@ -1,0 +1,166 @@
+- company: triware
+  jobs:
+    -
+      post_date: 2019-12-05
+      jobs:
+        - title: "Programmer / Developer"
+          link: 'https://www.careerbeacon.com/en/job/1585750/triware-technologies-inc/programmer-developer/st-john-s-nl'
+- company: metricsflow
+  jobs:
+    -
+      post_date: 2019-12-05
+      jobs:
+        - title: "Software Developer"
+          indeed: d302662984c06b13
+- company: mun
+  jobs:
+    -
+      post_date: 2019-11-28
+      jobs:
+        - title: "Programmer Analyst"
+          link: "https://www.mun.ca/hr/careers/career.php?id=668"
+- company: mentic
+  jobs:
+    -
+      post_date: 2019-11-28
+      jobs:
+        - title: "Web Developer"
+          link: "https://www.jobbank.gc.ca/jobsearch/jobposting/31620173"
+- company: vision33
+  jobs:
+    -
+      post_date: 2019-11-21
+      jobs:
+        - title: "Senior Software Developer"
+          link: "https://jobs.vision33.com/careers/31076-Vision33/jobs/12951907-Senior-Software-Developer--Services--Innovations-Team--Open-Location--Eastern-Canada"
+- company: mysa
+  jobs:
+    -
+      post_date: 2019-11-21
+      jobs:
+        - title: "Software Developers"
+          indeed: "d7b6ac0db30ef05c"
+- company: ccore
+  jobs:
+    -
+      post_date: 2019-11-14
+      jobs:
+        - title: "Software Systems Engineer"
+          indeed: "5cb51c58983445bb"
+- company: mobia
+  jobs:
+    -
+      post_date: 2019-11-14
+      jobs:
+        - title: "Full Stack Developer"
+          link: "https://canr57.dayforcehcm.com/CandidatePortal/en-US/mobia/Posting/View/311"
+- company: inmarsat
+  jobs:
+    -
+      post_date: 2019-11-14
+      jobs:
+        - title: "Solution Designer - ServiceNow"
+          link: "https://jobs.smartrecruiters.com/Inmarsat/743999699504819-solution-designer-servicenow"
+    -
+      post_date: 2019-10-31
+      jobs:
+        - title: "Senior Cloud Engineer"
+          link: "https://www.smartrecruiters.com/Inmarsat/743999697642667-senior-cloud-engineer"
+- company: quorum
+  jobs:
+    - post_date: 2019-10-31
+      jobs:
+        - title: Junior Developer
+          link: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=978f4299-eee2-4d9e-a9e2-51a1c0ba3aad&ccId=19000101_000001&jobId=312153
+- company: compusult
+  jobs:
+    -
+      post_date: 2018-12-06
+      jobs:
+        - title: "Software Engineers/Developers (Entry and Senior Level)"
+          link: "https://www.compusult.com/web/guest/careers"
+- company: verafin
+  jobs:
+    -
+      post_date: 2019-10-31
+      jobs:
+        - title: Database Administrator
+          link: https://verafin.secure.force.com/apply?id=a173b00000CTYqwAAH
+    -
+      post_date: 2019-04-18
+      jobs:
+        - title: Software Developer
+          link: https://verafin.secure.force.com/apply?id=a17C000000Bhqb8IAB
+- company: celtx
+  jobs:
+    -
+      post_date: 2019-10-31
+      jobs:
+        - title: Web Application Developer - Co-op Term
+          link: https://hire.withgoogle.com/public/jobs/celtxcom/view/P_AAAAAAGAABPJ0aCIhJhygY
+- company: kraken
+  jobs:
+    -
+      post_date: 2019-10-31
+      jobs:
+        - title: "Software Quality Assurance"
+          link: "https://jobs.careerbeacon.com/details/software-quality-assurance/1564477"
+        - title: "Full Stack Developer - Software Developer"
+          link: "https://jobs.careerbeacon.com/details/full-stack-developer--software-developer/1564475"
+        - title: "Software Developer"
+          link: "https://jobs.careerbeacon.com/details/software-developer/1564469"
+    -
+      post_date: 2019-10-10
+      jobs:
+        - title: "Computer Vision Engineer"
+          link: "https://jobs.careerbeacon.com/details/computer-vision-engineer/1575738"
+- company: colab
+  jobs:
+    -
+      post_date: 2019-09-12
+      jobs:
+        - title: Security Analyst
+          link: https://colabsoftware.humi.ca/job-board/software+development/1064
+        - title: Senior Backend Developer
+          link: https://colabsoftware.humi.ca/job-board/software+development/1065
+        - title: Full Stack Developer (Intern)
+          link: https://colabsoftware.humi.ca/job-board/software+development/1069
+        - title: Integration Developer
+          link: https://colabsoftware.humi.ca/job-board/software+development/1067
+- company: lemur
+  jobs:
+    -
+      post_date: 2019-06-13
+      jobs:
+        - title: "Embedded Systems Engineer / Developer"
+          indeed: c7bcda71f2999d4c
+    -
+      post_date: 2019-03-07
+      jobs:
+        - title: "Software Developer / Engineer"
+          indeed: ffade93e169e0680
+- company: heyorca
+  jobs:
+    -
+      post_date: 2018-05-16
+      jobs:
+        - title: Experienced Software Developer (Fulltime)
+          link: https://secure.collage.co/jobs/heyorca/11328
+- company: nlrt
+  jobs:
+    -
+      post_date: 2019-05-02
+      jobs:
+        - title: "IT Engineer"
+          link: "http://nlrt.ca/careers.html"
+- company: infotech
+  jobs:
+    -
+      post_date: 2018-11-01
+      jobs:
+        - title: Systems Analyst
+          link: http://www.infotechsolutions.com/careers/systems-analyst
+        - title: Senior .NET Developer
+          link: http://www.infotechsolutions.com/careers/senior-developer
+        - title: Senior Web Designer
+          link: http://www.infotechsolutions.com/careers/senior-web-designer

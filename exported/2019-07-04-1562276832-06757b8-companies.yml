@@ -1,0 +1,210 @@
+acenet:
+  name: ACENET
+  url: https://www.ace-net.ca/
+andersvr:
+  name: ANDES VR
+  url: http://andesvr.com/index.html
+atlanticlottery:
+  name: Atlantic Lottery / Loteries de l’Atlantique
+  url: http://www.alc.ca/
+avalonholo:
+  name: Avalon Holographics
+  url: http://www.avalonholographics.com/
+averro:
+  name: Averro Robotics and Technology
+  url: https://averrorobotics.com/
+axis:
+  name: AXIS Career Services
+  url: https://www.axiscareers.net
+bluedrop:
+  name: Bluedrop Learning Networks
+  url: http://www.bluedroplearningnetworks.com/
+beap:
+  name: BEAPLab
+  url: http://www.beaplab.com/home/
+cahill:
+  name: Cahill Group
+  url: http://www.cahill.ca
+canadacode:
+  name: "Canada Learning Code: St. John's Chapter"
+  url: https://www.canadalearningcode.ca/chapters/st-johns/
+ccore:
+  name: C-CORE
+  url: https://www.c-core.ca
+celtx:
+  name: Celtx
+  url: https://www.celtx.com
+clockworkfox:
+  name: Clockwork Fox
+  url: http://clockworkfoxstudios.com
+cna:
+  name: College of the North Atlantic
+  url: https://www.cna.nl.ca
+colab:
+  name: Colab Software
+  url: https://www.colabsoftware.com/
+compusult:
+  name: Compusult
+  url: http://www.compusult.net/
+creativemaple:
+  name: Creative Maple
+  url: https://www.creativemaple.ca/
+easternhealth:
+  name: Eastern Health
+  url: http://easternhealth.ca/
+focus:
+  name: Focus FS
+  url: http://www.focusfs.com/
+fugro:
+  name: Fugro
+  url: https://www.fugro.com/
+genoa:
+  name: Genoa Design International
+  url: http://genoadesign.com/
+govnl:
+  name: Government of Newfoundland and Labrador
+  url: https://www.gov.nl.ca/
+ici:
+  name: ICI Innovations
+  url: http://www.iciinnovations.com
+ioa:
+  name: IOA Software Solutions
+  url: http://www.ioass.com/
+imperva:
+  name: Imperva
+  url: https://apps.imperva.com/
+inmarsat:
+  name: Inmarsat
+  url: https://www.inmarsat.com/
+infotech:
+  name: Infotech
+  url: http://www.infotechsolutions.com/
+integrated:
+  name: Integrated Informatics
+  url: http://integrated-informatics.com/
+johnson:
+  name: Johnson Insurance
+  url: https://www1.johnson.ca/
+keyassets:
+  name: 'Key Assets Newfoundland & Labrador'
+  url: https://www.keyassetsnl.ca/
+kraken:
+  name: Kraken Robotics
+  url: http://krakenrobotics.com/
+lemur:
+  name: Lemur Vehicle Monitors
+  url: https://www.bluedriver.com/
+mun:
+  name: Memorial University of Newfoundland
+  url: https://www.mun.ca
+mysa:
+  name: Mysa
+  url: https://getmysa.com/
+nalcor:
+  name: Nalcor Energy
+  url: https://nalcorenergy.com/
+nlc:
+  name: Newfoundland Labrador Liquor Corporation
+  url: http://www.nlliquor.com/
+nlchi:
+  name: Newfoundland and Labrador Centre for Health Information
+  url: https://www.nlchi.nl.ca/
+nsbenergy:
+  name: NSB Energy
+  url: https://www.nsbenergy.com/
+ntv:
+  name: Newfoundland Broadcasting
+  url: http://ntv.ca/
+nlrt:
+  name: Newfoundland and Labrador Research Technologies
+  url: http://www.nlrt.ca/
+omega:
+  name: Omega AS
+  url: https://www.omega.no/location/st-johns
+otherocean:
+  name: Other Ocean Interactive
+  url: http://www.otherocean.com/
+pal:
+  name: PAL Airlines
+  url: https://www.palairlines.ca/
+pangeo:
+  name: PanGeo Subsea
+  url: https://www.pangeosubsea.com/
+pinnacle:
+  name: Pinnacle Networks Inc.
+  url: https://www.pinnacleoffice.ca/networks/
+poweredbyb:
+  name: Powered by b
+  url: http://www.poweredbyb.ca/
+provident:
+  name: Provident10
+  url: https://provident10.ca/
+procom:
+  name: Procom Data Services Inc
+  url: http://www.gandercanada.com/business-directory/7907/procom-data-services-inc/
+q5:
+  name: Q5 Systems
+  url: http://www.q5systems.com/
+quidder:
+  name: Quidder
+  url: https://qwidder.com/
+quorum:
+  name: Quorum Information Systems
+  url: http://www.quorumdms.com/
+radient:
+  name: Radient360
+  url: http://radient360.com/
+rayagency:
+  name: Ray Creative Agency
+  url: https://rayagency.ca
+rsa:
+  name: RSA Canada
+  url: https://www.rsagroup.ca/
+robustic:
+  name: Robustic
+  url: http://robustic.ca/
+rutter:
+  name: Rutter
+  url: http://www.rutter.ca/
+fytics:
+  name: Fytics
+  url: http://fytics.com/
+subc:
+  name: SubC Imaging
+  url: http://subcimaging.com/
+totaliq:
+  name: totaliQ
+  url: https://totaliq.ca/
+target:
+  name: Target Marketing
+  url: https://targetmarketing.ca/
+triware:
+  name: Triware Technologies Inc.
+  url: http://triware.ca/
+verafin:
+  name: Verafin
+  url: https://verafin.com
+vision33:
+  name: Vision33
+  url: https://www.vision33.com/
+wekaplex:
+  name: WekaPlex
+  url: http://www.wekaplex.com/
+waterwerks:
+  name: "WaterWerks Communications"
+  url: 'https://waterwerkscommunications.com/'
+whalecompany:
+  name: HeyOrca
+  url: https://www.heyorca.com/
+whiterock:
+  name: "White Rock Consulting & Communications"
+  url: http://www.whiterocknl.com
+wood:
+  name: Wood PLC
+  url: https://www.woodplc.com
+workplacenl:
+  name: WorkplaceNL
+  url: https://workplacenl.ca/
+zedit:
+  name: ZedIT
+  url: http://www.zedit.com/

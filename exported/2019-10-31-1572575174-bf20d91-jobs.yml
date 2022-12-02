@@ -1,0 +1,181 @@
+- company: mysa
+  jobs:
+    - post_date: 2019-10-31
+      jobs:
+        - title: Software Developers
+          link: https://www.careerbeacon.com/en/job/1580598/mysa-smart-thermostat/software-developers/st-john-s
+- company: govnl
+  jobs:
+    - post_date: 2019-10-31
+      jobs:
+        - title: Senior Systems Analyst
+          link: https://www.careerbeacon.com/en/job/1578493/government-of-newfoundland-and-labrador/senior-systems-analyst-security-and-information-protection-analyst/st-john-s
+- company: quorum
+  jobs:
+    - post_date: 2019-10-31
+      jobs:
+        - title: Junior Internal Network Specialist
+          link: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=978f4299-eee2-4d9e-a9e2-51a1c0ba3aad&ccId=19000101_000001&jobId=317893
+        - title: Junior Developer
+          link: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=978f4299-eee2-4d9e-a9e2-51a1c0ba3aad&ccId=19000101_000001&jobId=312153
+- company: compusult
+  jobs:
+    - post_date: 2019-10-31
+      jobs:
+        - title: "GIS Analyst/Developer/Database Administrator"
+          link: "https://www.compusult.com/web/guest/careers"
+    -
+      post_date: 2018-12-06
+      jobs:
+        - title: "Software Engineers/Developers (Entry and Senior Level)"
+          link: "https://www.compusult.com/web/guest/careers"
+- company: verafin
+  jobs:
+    -
+      post_date: 2019-10-31
+      jobs:
+        - title: Database Administrator
+          link: https://verafin.secure.force.com/apply?id=a173b00000CTYqwAAH
+        - title: UX Designer
+          link: https://verafin.secure.force.com/apply?id=a173b00000CQnYGAA1
+        - title: Software Developer - Fall Career Fairs
+          link: https://verafin.secure.force.com/apply?id=a173b00000CTYruAAH
+    -
+      post_date: 2019-08-08
+      jobs:
+        - title: Solutions Architect - Security Automation
+          link: https://verafin.secure.force.com/apply?id=a173b00000CAu62AAD
+    -
+      post_date: 2019-04-18
+      jobs:
+        - title: Software Developer
+          link: https://verafin.secure.force.com/apply?id=a17C000000Bhqb8IAB
+- company: breathesuite
+  jobs:
+    -
+      post_date: 2019-10-31
+      jobs:
+        - title: Software Engineer
+          link: https://www.indeedjobs.com/breathesuite/jobs/df459e9d4fb17fa750d1
+- company: celtx
+  jobs:
+    -
+      post_date: 2019-10-31
+      jobs:
+        - title: Web Application Developer - Co-op Term
+          link: https://hire.withgoogle.com/public/jobs/celtxcom/view/P_AAAAAAGAABPJ0aCIhJhygY
+    -
+      post_date: 2019-10-24
+      jobs:
+        - title: Data Engineer
+          link: https://hire.withgoogle.com/public/jobs/celtxcom/view/P_AAAAAAGAABPFlGRoyEoCX3
+        - title: Data Scientist
+          link: https://hire.withgoogle.com/public/jobs/celtxcom/view/P_AAAAAAGAABPFNmPaqAmonQ
+- company: worldfurexchange
+  jobs:
+    -
+      post_date: 2019-10-10
+      jobs:
+        - title: "Software Programmer/Developer"
+          indeed: "123024ac46119d3f"
+- company: kraken
+  jobs:
+    -
+      post_date: 2019-10-31
+      jobs:
+        - title: "Software Quality Assurance"
+          link: "https://jobs.careerbeacon.com/details/software-quality-assurance/1564477"
+        - title: "Full Stack Developer - Software Developer"
+          link: "https://jobs.careerbeacon.com/details/full-stack-developer--software-developer/1564475"
+        - title: "Software Developer"
+          link: "https://jobs.careerbeacon.com/details/software-developer/1564469"
+    -
+      post_date: 2019-10-10
+      jobs:
+        - title: "Computer Vision Engineer"
+          link: "https://jobs.careerbeacon.com/details/computer-vision-engineer/1575738"
+- company: skyhawk
+  jobs:
+    -
+      post_date: 2019-10-03
+      jobs:
+        - title: "Software Developer"
+          indeed: "66c5de9eabb0f5fe"
+
+- company: inmarsat
+  jobs:
+    -
+      post_date: 2019-10-31
+      jobs:
+        - title: "Senior Cloud Engineer"
+          link: "https://www.smartrecruiters.com/Inmarsat/743999697642667-senior-cloud-engineer"
+    -
+      post_date: 2019-10-03
+      jobs:
+        - title: "Database Administrator"
+          link: "https://jobs.smartrecruiters.com/Inmarsat/743999696138412-database-administrator"
+- company: colab
+  jobs:
+    -
+      post_date: 2019-09-12
+      jobs:
+        - title: Security Analyst
+          link: https://colabsoftware.humi.ca/job-board/software+development/1064
+        - title: Full Stack Developer
+          link: https://colabsoftware.humi.ca/job-board/software+development/1065
+        - title: Full Stack Developer (Intern)
+          link: https://colabsoftware.humi.ca/job-board/software+development/1069
+        - title: Integration Developer
+          link: https://colabsoftware.humi.ca/job-board/software+development/1067
+        - title: Senior Web Developer
+          link: https://colabsoftware.humi.ca/job-board/software+development/1062
+        - title: Mobile App Developer
+          link: https://colabsoftware.humi.ca/job-board/software+development/1066
+- company: sulis
+  jobs:
+    -
+      post_date: 2019-09-12
+      jobs:
+        - title: "Software Engineer"
+          indeed: "48d815278a893c1b"
+- company: lemur
+  jobs:
+    -
+      post_date: 2019-06-13
+      jobs:
+        - title: "Embedded Systems Engineer / Developer"
+          indeed: c7bcda71f2999d4c
+    -
+      post_date: 2019-03-07
+      jobs:
+        - title: "Software Developer / Engineer"
+          indeed: ffade93e169e0680
+- company: heyorca
+  jobs:
+    -
+      post_date: 2018-05-16
+      jobs:
+        - title: Software Quality Assurance Engineer (Co-op)
+          link: https://secure.collage.co/jobs/heyorca/11324
+        - title: Experienced Software Developer (Fulltime)
+          link: https://secure.collage.co/jobs/heyorca/11328
+        - title: Software Engineer (Co-op)
+          link: https://secure.collage.co/jobs/heyorca/11310
+- company: nlrt
+  jobs:
+    -
+      post_date: 2019-05-02
+      jobs:
+        - title: "IT Engineer"
+          link: "http://nlrt.ca/careers.html"
+- company: infotech
+  jobs:
+    -
+      post_date: 2018-11-01
+      jobs:
+        - title: Systems Analyst
+          link: http://www.infotechsolutions.com/careers/systems-analyst
+        - title: Senior .NET Developer
+          link: http://www.infotechsolutions.com/careers/senior-developer
+        - title: Senior Web Designer
+          link: http://www.infotechsolutions.com/careers/senior-web-designer

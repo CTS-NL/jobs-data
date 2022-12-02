@@ -1,0 +1,117 @@
+- company: pal
+  jobs:
+    -
+      post_date: 2018-07-05
+      jobs:
+        - title: Intermediate Software Developer
+          link: "https://ca.indeed.com/job/intermediate-software-developer-cc87dc54bc30d629"
+- company: verafin
+  jobs:
+    -
+      post_date: 2018-06-21
+      jobs:
+        - title: Software Developer
+          link: https://verafin.com/careers/
+- company: triware
+  jobs:
+    -
+      post_date: 2018-06-21
+      jobs:
+        - title: Programmer / Developer
+          link: https://www.careerbeacon.com/en/job/1472804/triware-technologies-inc/programmer-developer/st-john-s
+- company: johnson
+  jobs:
+    -
+      post_date: 2018-06-21
+      jobs:
+        - title: Senior Developer
+          link: http://johnson.njoyn.com/CL2/xweb/Xweb.asp?tbtoken=YlhaRRoXCG1yagQFNyciCFtPeWdEcCJacUhYV10JExJbWEYfKzYSBWB9BQkbVhJaS3YqWA%3D%3D&chk=dFlbQBJe&CLID=27826&page=jobdetails&JobID=J0318-1235&brid=194995&lang=1
+- company: inmarsat
+  jobs:
+    -
+      post_date: 2018-06-07
+      jobs:
+        - title: Analyst Developer
+          link: https://inmarsat.jobs.net/en-GB/job/analyst-developer-001750/J3N28F60MHMHGYMVT2B
+- company: otherocean
+  jobs:
+    -
+      post_date: 2018-05-31
+      jobs:
+        - title: Software Programmer
+          link: https://www.jobbank.gc.ca/jobsearch/jobposting/27481907
+- company: lemur
+  jobs:
+    -
+      post_date: 2018-05-17
+      jobs:
+        - title: Software Developer
+          link: https://www.jobbank.gc.ca/jobsearch/jobposting/27417416
+        - title: Software Engineer
+          link: https://www.jobbank.gc.ca/jobsearch/jobposting/27417418
+- company: colab
+  jobs:
+    -
+      post_date: 2018-05-17
+      jobs:
+        - title: Front-End Development Intern
+          link: https://www.colabsoftware.com/job/front-end-development-intern
+        - title: Back-End Development Intern
+          link: https://www.colabsoftware.com/job/back-end-development-intern
+    -
+      post_date: 2018-04-26
+      jobs:
+        - title: DevOps
+          link: https://www.colabsoftware.com/job/devops
+        - title: Front-End Developer
+          link: https://www.colabsoftware.com/job/front-end-developer
+        - title: Back-End Developer (Analytics)
+          link: https://www.colabsoftware.com/job/back-end-developer-analytics
+- company: fytics
+  jobs:
+    -
+      post_date: 2018-05-03
+      jobs:
+        - title: Front End Developer
+          link: https://www.facebook.com/pg/fytics/jobs/1841862112512542/
+- company: compusult
+  jobs:
+    -
+      post_date: 2018-03-29
+      jobs:
+        - title: Software Engineers/Developers
+          link: http://www.compusult.net/web/guest/careers
+- company: infotech
+  jobs:
+    -
+      post_date: 2018-03-08
+      jobs:
+        - title: Senior .NET Developer
+          link: http://www.infotechsolutions.com/careers/senior-developer
+        - title: Senior Web Designer
+          link: http://www.infotechsolutions.com/careers/senior-web-designer
+        - title: Systems Analyst
+          link: http://www.infotechsolutions.com/careers/systems-analyst
+- company: clockworkfox
+  jobs:
+    -
+      post_date: 2018-03-01
+      jobs:
+      - title: Backend Web Developer
+        link: http://clockworkfoxstudios.com/back-end-web-developer/
+- company: kraken
+  jobs:
+    -
+      post_date: 2018-02-08
+      jobs:
+        - title: Software Developer
+          link: http://krakenrobotics.com/about/careers/
+- company: celtx
+  jobs:
+    -
+      post_date: 2018-02-08
+      jobs:
+        - title: Web Application Developer
+          link: https://www.celtx.com/careers.html?gh_jid=235766
+        - title: Web Infrastructure Developer
+          link: https://www.celtx.com/careers.html?gh_jid=235786

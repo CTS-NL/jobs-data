@@ -1,0 +1,243 @@
+- company: avalonholo
+  jobs:
+    - post_date: 2021-04-08
+      jobs:
+        - title: FPGA Designer
+          link: https://www.avalonholographics.com/careers
+        - title: DevOps Engineer
+          link: https://www.avalonholographics.com/careers
+- company: verafin
+  jobs:
+    -
+      post_date: 2021-04-08
+      jobs:
+        - title: CICD Engineer
+          link: https://jobs.lever.co/verafin/96018757-1b8a-44d3-838b-224005b445b0
+    -
+      post_date: 2021-04-01
+      jobs:
+        - title: Software Developer
+          link: https://jobs.lever.co/verafin/7511e22d-6911-4f35-aed8-5ca1b906de00
+- company: workplacenl
+  jobs:
+    - post_date: 2021-04-08
+      jobs:
+        - title: Application Support Analyst
+          link: https://www.careerbeacon.com/en/job/1702627/workplacenl/application-support-analyst/st-john-s
+- company: quorum
+  jobs:
+    - post_date: 2021-04-08
+      jobs:
+        - title: Software Developer (Back-End)
+          link: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=978f4299-eee2-4d9e-a9e2-51a1c0ba3aad&ccId=19000101_000001&jobId=383679
+- company: mysa
+  jobs:
+    - post_date: 2021-04-01
+      jobs:
+        - title: Software Developer (Mysa App)
+          link: https://jobs.lever.co/getmysa/17133609-f6af-4478-9735-e0c571227360
+- company: milkmoovement
+  jobs:
+    - post_date: 2021-03-18
+      jobs:
+        - title: "Dev Ops Engineer"
+          link: "https://milkmoovement-talent.freshteam.com/jobs/bPgQPQETT_V-/dev-ops-engineer"
+        - title: "Junior Back End Developer (Remote)"
+          link: "https://milkmoovement-talent.freshteam.com/jobs/YQLpekqnGFgl/junior-back-end-developer-remote"
+        - title: "Junior Front End Developer (Remote)"
+          link: "https://milkmoovement-talent.freshteam.com/jobs/3J99aFKyoPXx/junior-front-end-developer-remote"
+        - title: "Lead Front End Developer"
+          link: "https://milkmoovement-talent.freshteam.com/jobs/IdN_dakqJ6a-/lead-front-end-developer"
+    - post_date: 2021-02-25
+      jobs:
+        - title: "Lead Back End Developer (Remote)"
+          link: "https://milkmoovement-talent.freshteam.com/jobs/bh_sFkI_EHyx/lead-back-end-developer-remote"
+- company: rutter
+  jobs:
+    -
+      post_date: 2021-03-11
+      jobs:
+        - title: Software Developers
+          link: https://www.careerbeacon.com/en/job/1697977/rutter-inc/software-developers/st-john-s
+- company: mariner
+  jobs:
+    -
+      post_date: 2021-03-11
+      jobs:
+        - title: Data Engineer/Wrangler
+          link: https://www.smartrecruiters.com/MarinerPartnersInc/743999738008382-data-engineer-wrangler
+        - title: Enterprise/Data Architect
+          link: https://www.smartrecruiters.com/MarinerPartnersInc/743999737687065-enterprise-data-architect
+    -
+      post_date: 2021-02-25
+      jobs:
+        - title: Senior Technical Architect
+          link: https://www.smartrecruiters.com/MarinerPartnersInc/743999736222760-senior-technical-architect
+    -
+      post_date: 2021-02-11
+      jobs:
+        - title: Senior .NET Developer
+          link: https://www.smartrecruiters.com/MarinerPartnersInc/743999734504259-senior-net-developer
+    -
+      post_date: 2021-02-04
+      jobs:
+        - title: Senior Software Developer
+          link: https://jobs.smartrecruiters.com/MarinerPartnersInc/743999733575143-senior-developer
+    -
+      post_date: 2020-10-08
+      jobs:
+        - title: Senior Software Engineer
+          link: https://www.smartrecruiters.com/MarinerPartnersInc/743999719236141-senior-software-engineer-future-opportunity-
+- company: telus
+  jobs:
+    - post_date: 2021-02-25
+      jobs:
+        - title: "Senior Software Developer"
+          link: "https://telus.taleo.net/careersection/10000/jobdetail.ftl?job=TEC11813-21"
+- company: compusult
+  jobs:
+    -
+      post_date: 2021-02-18
+      jobs:
+        - title: "Senior Software Engineer (AI or 3D Geospatial Rendering)"
+          link: "https://www.compusult.com/web/guest/careers"
+    -
+      post_date: 2020-06-04
+      jobs:
+        - title: "Software Testing Specialist"
+          link: "https://www.compusult.com/web/guest/careers"
+    -
+      post_date: 2020-04-23
+      jobs:
+        - title: "Software Developers"
+          link: "https://www.compusult.com/web/guest/careers"
+- company: pal
+  jobs:
+    -
+      post_date: 2021-02-11
+      jobs:
+        - title: Senior Software Developer
+          link: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=03260d95-ec69-4efe-bf94-e3498c60d919&ccId=19000101_000001&jobId=401560
+- company: colab
+  jobs:
+    -
+      post_date: 2021-02-11
+      jobs:
+        - title: "Application Support Developer"
+          link: "https://colabsoftware.humi.ca/job-board/software+development/3804"
+    -
+      post_date: 2021-02-04
+      jobs:
+        - title: "QA & Test Automation Developer"
+          link: "https://colabsoftware.humi.ca/job-board/quality+assurance/3711"
+    -
+      post_date: 2020-12-10
+      jobs:
+        - title: "Senior Frontend Developer (React)"
+          link: "https://colabsoftware.humi.ca/job-board/software/3202"
+- company: bluedrop
+  jobs:
+    -
+      post_date: 2021-02-04
+      jobs:
+        - title: Senior Front-End Developer
+          link: https://careers.bluedroplearningnetworks.com/?page_id=124
+        - title: Intermediate Full-Stack Developer
+          link: https://careers.bluedroplearningnetworks.com/?page_id=126
+- company: focus
+  jobs:
+    -
+      post_date: 2021-01-14
+      jobs:
+        - title: "Application Development Lead"
+          link: "https://focusfs.com/company/careers/application-development-lead/"
+        - title: "Application QA Lead"
+          link: "https://focusfs.com/company/careers/application-qa-lead/"
+- company: ironberry
+  jobs:
+    -
+      post_date: 2021-01-14
+      jobs:
+        - title: "Software Developer"
+          link: "https://www.jobbank.gc.ca/jobsearch/jobposting/33711574"
+- company: lghealth
+  jobs:
+    - post_date: 2020-12-03
+      jobs:
+        - title: "Computer Programmer/Analyst"
+          link: "https://www.careers.lghealth.ca/VacancyDetail.aspx?VacancyUID=000000005158"
+- company: kraken
+  jobs:
+    -
+      post_date: 2020-10-15
+      jobs:
+        - title: "Software Developer – Underwater Vehicle Systems"
+          link: "https://jobs.careerbeacon.com/details/software-developer--underwater-vehicle-systems/1668297"
+        - title: "Software Developer - Vision Systems"
+          link: "https://jobs.careerbeacon.com/details/software-developer--vision-systems/1662372"
+    -
+      post_date: 2020-06-11
+      jobs:
+        - title: "Computer Vision Engineer"
+          link: "https://jobs.careerbeacon.com/details/computer-vision-engineer/1642076"
+    -
+      post_date: 2020-04-30
+      jobs:
+        - title: "Software Developer"
+          link: "https://jobs.careerbeacon.com/details/software-developer/1643000"
+- company: vision33
+  jobs:
+    -
+      post_date: 2020-10-08
+      jobs:
+        - title: Senior Software Developer
+          link: https://jobs.vision33.com/careers/31076-Vision33/jobs/13754519-Senior-Software-Developer-General-Application-Open-Location
+    -
+      post_date: 2020-02-27
+      jobs:
+        - title: Software Developer
+          link: https://jobs.vision33.com/careers/31076-Vision33/jobs/13154698-Software-Developer-Open-Canada-Location
+- company: ioa
+  jobs:
+    - post_date: 2020-10-10
+      jobs:
+        - title: "Programmer / Analyst"
+          link: "https://ioass.com/careers-1"
+- company: sequencebio
+  jobs:
+    -
+      post_date: 2020-06-11
+      jobs:
+        - title: "Cloud Developer"
+          link: "https://sequencebio.bamboohr.com/jobs/view.php?id=29"
+- company: inspectar
+  jobs:
+    -
+      post_date: 2020-06-04
+      jobs:
+        - title: Senior Unity Developer
+          link: https://www.inspectar.com/career/sr-unity-developer
+    -
+      post_date: 2020-05-28
+      jobs:
+        - title: Software Developer CO-OP Student
+          link: https://www.inspectar.com/career/software-developer-co-op-student
+        - title: QA Engineer CO-OP Student
+          link: https://www.inspectar.com/career/qa-engineer-co-op-student
+    -
+      post_date: 2020-01-30
+      jobs:
+        - title: C# Developer
+          link: https://www.inspectar.com/career/c-sharp-developer
+- company: lemur
+  jobs:
+    -
+      post_date: 2019-06-13
+      jobs:
+        - title: "Embedded Systems Engineer / Developer"
+          link: https://www.bluedriver.com/about-us/careers
+    -
+      post_date: 2019-03-07
+      jobs:
+        - title: "Software Developer / Engineer"
+          link: https://www.bluedriver.com/about-us/careers

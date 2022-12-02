@@ -1,0 +1,148 @@
+- company: inspectar
+  jobs:
+    -
+      post_date: 2020-05-28
+      jobs:
+        - title: Software Developer CO-OP Student
+          link: https://www.inspectar.com/careers/software-developer-co-op-student
+        - title: QA Engineer CO-OP Student
+          link: https://www.inspectar.com/careers/qa-engineer-co-op-student
+    -
+      post_date: 2020-01-30
+      jobs:
+        - title: C# Developer
+          link: https://www.inspectar.com/careers/c-sharp-developer
+        - title: Unity Developer
+          link: https://www.inspectar.com/careers/unity-developer
+- company: avalonholo
+  jobs:
+    -
+      post_date: 2020-05-28
+      jobs:
+        - title: Software Engineer
+          indeed: cc67d152c5b46369
+- company: beaufort
+  jobs:
+    -
+      post_date: 2020-05-21
+      jobs:
+        - title: Senior and Intermediate Software Developers
+          link: https://www.careerbeacon.com/en/job/1644310/beaufort-solutions/senior-and-intermediate-software-developers/st-john-s
+- company: hyke
+  jobs:
+    -
+      post_date: 2020-05-21
+      jobs:
+        - title: Intern Software Developer / Software Engineer
+          link: https://hykeup.freshteam.com/jobs/_I5LMGMiC6Mi/software-developer-software-engineer
+    -
+      post_date: 2020-04-30
+      jobs:
+        - title: Front End Developer
+          link: https://hykeup.freshteam.com/jobs/HoqkgOpTUMfj/front-end-developer
+- company: verafin
+  jobs:
+    -
+      post_date: 2020-05-14
+      jobs:
+        - title: Business Software Developer
+          link: https://jobs.lever.co/verafin/a338d856-7640-4822-80d4-a9175527fb98
+    -
+      post_date: 2019-04-18
+      jobs:
+        - title: Software Developer
+          link: https://jobs.lever.co/verafin/7511e22d-6911-4f35-aed8-5ca1b906de00
+- company: mysa
+  jobs:
+    -
+      post_date: 2020-05-07
+      jobs:
+        - title: "Remote Software Developer"
+          link: "https://jobs.lever.co/getmysa/39856fec-2c99-495d-8f04-ec0bcb7aad80"
+    -
+      post_date: 2020-02-27
+      jobs:
+        - title: "Software Developer"
+          link: "https://jobs.lever.co/getmysa/77a3c7e8-4c67-4b50-bbc8-9c15614157f1"
+    -
+      post_date: 2020-02-20
+      jobs:
+        - title: "Senior Embedded Developer"
+          link: "https://jobs.lever.co/getmysa/33af8a08-8c5c-4038-ac2f-b80056853e6c"
+- company: mentic
+  jobs:
+    -
+      post_date: 2020-04-30
+      jobs:
+        - title: "Web Developer"
+          link: "https://www.jobbank.gc.ca/jobsearch/jobposting/32299736"
+- company: kraken
+  jobs:
+    -
+      post_date: 2020-04-30
+      jobs:
+        - title: "Software Developer"
+          link: "https://jobs.careerbeacon.com/details/software-developer/1643000"
+    -
+      post_date: 2019-10-10
+      jobs:
+        - title: "Computer Vision Engineer"
+          link: "https://jobs.careerbeacon.com/details/computer-vision-engineer/1575738"
+- company: compusult
+  jobs:
+    -
+      post_date: 2020-04-23
+      jobs:
+        - title: "Robotics Developer"
+          link: "https://www.compusult.com/web/guest/careers"
+        - title: "Software Developers"
+          link: "https://www.compusult.com/web/guest/careers"
+- company: celtx
+  jobs:
+    -
+      post_date: 2020-03-26
+      jobs:
+        - title: Web Application Developer - Co-op term
+          link: https://hire.withgoogle.com/public/jobs/celtxcom/view/P_AAAAAAGAABPHayulgamfl0
+- company: totaliq
+  jobs:
+    -
+      post_date: 2020-03-12
+      jobs:
+        - title: Fall Work Term Full Stack Developer
+          link: 'https://yourtotaliq.freshteam.com/jobs/KH7nEyUuNkwg/fall-work-term-full-stack-developer'
+        - title: Full Stack Developer
+          link: 'https://yourtotaliq.freshteam.com/jobs/PjNNw3LLnEix/full-stack-developer'
+- company: vision33
+  jobs:
+    -
+      post_date: 2020-02-27
+      jobs:
+        - title: Software Developer
+          link: https://jobs.vision33.com/careers/31076-Vision33/jobs/13154698-Software-Developer-Open-Canada-Location
+- company: colab
+  jobs:
+    -
+      post_date: 2019-09-12
+      jobs:
+        - title: Security Analyst
+          link: https://colabsoftware.humi.ca/job-board/software+development/1064
+- company: lemur
+  jobs:
+    -
+      post_date: 2019-06-13
+      jobs:
+        - title: "Embedded Systems Engineer / Developer"
+          link: https://www.bluedriver.com/about-us/careers
+    -
+      post_date: 2019-03-07
+      jobs:
+        - title: "Software Developer / Engineer"
+          link: https://www.bluedriver.com/about-us/careers
+- company: heyorca
+  jobs:
+    -
+      post_date: 2018-05-16
+      jobs:
+        - title: Experienced Software Developer (Fulltime)
+          link: https://secure.collage.co/jobs/heyorca/11328

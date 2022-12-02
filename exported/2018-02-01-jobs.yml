@@ -1,0 +1,71 @@
+- company: otherocean
+  jobs: []
+- company: zambara
+  jobs: []
+- company: clockworkfox
+  jobs: []
+- company: colab
+  jobs:
+      - post_date: 2018-01-11
+        jobs:
+            - title: Lead Developer
+              link: https://www.colabsoftware.com/careers
+- company: bluedrop
+  jobs:
+      - post_date: 2018-01-18
+        jobs:
+            - title: Software Developer
+              link: https://www.careerbeacon.com/en/posting/719089
+            - title: Multimedia Developer
+              link: https://www.careerbeacon.com/en/posting/719607
+- company: compusult
+  jobs:
+      - post_date: 2018-01-18
+        jobs:
+            - title: Software Engineers/Developers
+              link: https://www.workopolis.com/jobsearch/job/17921414
+- company: zedit
+  jobs:
+      - post_date: 2018-01-18
+        jobs:
+            - title: IT DevOps Support Analyst
+              link: http://jobs.gzed.com/index.php?m=portal&a=details&jobOrderID=10338317
+            - title: Java Developer
+              link: https://www.careerbeacon.com/en/posting/716612
+      - post_date: 2018-02-01
+        jobs:
+            - title: Network Services Technical Specialist
+              link: https://www.careerbeacon.com/en/posting/725045/quorum-information-systems-inc/network-services-technical-specialist/st-john-s
+- company: heyorca
+  jobs:
+      - post_date: 2018-02-01
+        jobs:
+            - title: Software Quality Assurance Specialist
+              link: https://jobs.careerbeacon.com/details/software-quality-assurance-specialist/191219
+            - title: Full-Stack Web Developer
+              link: https://jobs.careerbeacon.com/details/fullstack-web-developer/590925
+- company: wood
+  jobs:
+      - post_date: 2018-02-01
+        jobs:
+            - title: Software Configuration Administrator / Data Manager
+              link: https://www.workopolis.com/jobsearch/job/17933675?uc=E8&sc=3.5111&sp=1
+- company: provident
+  jobs:
+      - post_date: 2018-02-01
+        jobs:
+            - title: Data Analyst
+              link: https://www.careerbeacon.com/en/posting/724772/provident10/data-analyst/st-john-s
+- company: provident
+  jobs:
+      - post_date: 2018-02-01
+        jobs:
+            - title: Data Analyst
+              link: https://www.careerbeacon.com/en/posting/724772/provident10/data-analyst/st-john-s
+- company: integrated
+  jobs:
+      - post_date: 2018-02-01
+        jobs:
+            - title: Python Developer
+              link: https://www.careerbeacon.com/en/posting/725367/integrated-informatics/python-developer/st-john-s
+

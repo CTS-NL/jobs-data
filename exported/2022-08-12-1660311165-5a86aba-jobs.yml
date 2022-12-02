@@ -1,0 +1,366 @@
+- company: cna
+  jobs: []
+- company: oliverpos
+  jobs: []
+- company: easternhealth
+  jobs:
+    - post_date: 2022-06-24
+      jobs:
+        - title: Computer Programmer/Analyst
+          link: https://employment.easternhealth.ca/eRecruit/VacancyDetail.aspx?VacancyUID=000000089318
+          remote: true
+- company: nlchi
+  jobs: []
+- company: reportmate
+  jobs: []
+- company: rutter
+  jobs:
+    - post_date: 2022-06-24
+      jobs:
+        - title: Senior Software Developer
+          link: https://secureservercdn.net/104.238.71.33/773.24a.myftpupload.com/wp-content/uploads/2022/06/2022-06-17-Rutter-SoftwareDeveloper.pdf
+- company: hatch
+  jobs:
+    - post_date: 2022-07-01
+      jobs:
+        - title: DevOps Consultant
+          link: https://jobs.hatch.com/job/_/885933300/
+- company: sequencebio
+  jobs:
+    -
+      post_date: 2022-04-15
+      jobs:
+        - title: Security Analyst
+          link: https://sequencebio.bamboohr.com/jobs/view.php?id=48
+          remote: true
+        - title: Cloud Developer
+          link: https://sequencebio.bamboohr.com/jobs/view.php?id=49
+          remote: true
+        - title: Web Application Developer
+          link: https://sequencebio.bamboohr.com/jobs/view.php?id=46
+          remote: true
+        - title: Salesforce Developer
+          link: https://sequencebio.bamboohr.com/jobs/view.php?id=50
+          remote: true
+        - title: Experienced AWS Infrastructure Engineer
+          link: https://sequencebio.bamboohr.com/jobs/view.php?id=47
+          remote: true
+- company: strobeltek
+  jobs:
+    - post_date: 2022-06-24
+      jobs:
+        - title: Mid Electrical/ Software Engineer
+          link: https://strobeltek.com/careers/
+          remote: false
+        - title: Senior Software Developer
+          link: https://strobeltek.com/careers/
+          remote: false
+- company: radient
+  jobs:
+    - post_date: 2022-08-12
+      jobs:
+        - title: Software Developer
+          link: https://ca.indeed.com/viewjob?jk=5046978eca517594
+- company: quorum
+  jobs:
+    - post_date: 2022-07-22
+      jobs:
+        - title: Software Architect
+          link: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=978f4299-eee2-4d9e-a9e2-51a1c0ba3aad&ccId=19000101_000001&jobId=417457
+- company: enaimco
+  jobs: []
+- company: inmarsat
+  jobs:
+    - post_date: 2022-07-22
+      jobs:
+        - title: "Senior Solutions Architect"
+          link: https://jobs.smartrecruiters.com/Inmarsat/743999837080463-senior-solutions-architect
+- company: bluedriver
+  jobs:
+    -
+      post_date: 2019-03-07
+      jobs:
+        - title: "Software Developer / Engineer"
+          link: https://us.bluedriver.com/pages/careers
+- company: cityofstjohns
+  jobs:
+    - post_date: 2022-08-12
+      jobs:
+        - title: GIS Developer
+          link: https://stjohns.njoyn.com/CL4/xweb/XWeb.asp?tbtoken=ZVFYQBteDVAHYQFzQyBVZk9MBWAraVUvdVRMIisMDnkqXURpLUttLiUuQC4kXmJ3dTcYGhJRT3FjF3U%3D&chk=ZVpaShM%3D&clid=73617&Page=JobDetails&Jobid=J0722-1175&BRID=279217&lang=1
+          remote: true
+- company: mariner
+  jobs:
+    -
+      post_date: 2022-06-24
+      jobs:
+        - title: .NET Developer
+          link: https://www.smartrecruiters.com/MarinerPartnersInc/743999834056922--net-developer
+          remote: true
+        - title: Azure Solutions Architect
+          link: https://jobs.smartrecruiters.com/MarinerPartnersInc/743999783599410-azure-solutions-architect
+          remote: true
+    -
+      post_date: 2022-03-25
+      jobs:
+        - title: Senior Database Administrator
+          link: https://www.smartrecruiters.com/MarinerPartnersInc/743999814022828-senior-database-administrator
+          remote: true
+    -
+      post_date: 2022-01-28
+      jobs:
+        - title: Senior Python Developer
+          link: https://www.smartrecruiters.com/MarinerPartnersInc/743999799612047-senior-python-developer
+          remote: true
+- company: nlc
+  jobs: []
+- company: northatlantic
+  jobs: []
+- company: genoa
+  jobs:
+    - post_date: 2022-07-22
+      jobs:
+        - title: Software Developer
+          link: https://can62e2.dayforcehcm.com/CandidatePortal/en-US/genoadesign/Posting/View/511
+          remote: false
+    - post_date: 2022-07-08
+      jobs:
+        - title: Senior Software Developer
+          link: https://can62e2.dayforcehcm.com/CandidatePortal/en-US/genoadesign/Posting/View/508
+          remote: false
+- company: mun
+  jobs: []
+- company: ccore
+  jobs: []
+- company: otherocean
+  jobs:
+    - post_date: 2022-03-18
+      jobs:
+        - title: Senior Programmer
+          link: https://otherocean.com/jobs/Senior_Programmer.pdf
+          remote: true
+- company: bluecross
+  jobs:
+    - post_date: 2022-08-12
+      jobs:
+        - title: Programmer/Analyst
+          link: https://jobs.medaviebc.ca/job/_/562212617/
+          remote: true
+    - post_date: 2022-06-24
+      jobs:
+        - title: Software System Analyst
+          link: https://jobs.medaviebc.ca/job/_/559738617/
+          remote: true
+    - post_date: 2022-06-10
+      jobs:
+        - title: Automation Architect
+          link: https://jobs.medaviebc.ca/job/_/559366117/
+          remote: true
+        - title: Programmer/Analyst
+          link: https://jobs.medaviebc.ca/job/_/556545117/
+          remote: true
+        - title: Intermediate Software Architect
+          link: https://jobs.medaviebc.ca/job/_/557485217/
+          remote: true
+        - title: Software Architect
+          link: https://jobs.medaviebc.ca/job/_/557485017/
+          remote: true
+        - title: Sr. Programmer/Analyst
+          link: https://jobs.medaviebc.ca/job/_/556516717/
+          remote: true
+    - post_date: 2022-05-27
+      jobs:
+        - title: Programmer/Analyst
+          link: https://jobs.medaviebc.ca/job/_/557961117/
+          remote: true
+        - title: Software Architect
+          link: https://jobs.medaviebc.ca/job/_/556905517/
+          remote: true
+- company: mysa
+  jobs:
+    - post_date: 2022-07-29
+      jobs:
+        - title: AWS DevOps Engineer
+          link: https://jobs.lever.co/getmysa/571937fd-2e3a-4d34-bf58-80c2728d707b
+    - post_date: 2022-05-13
+      jobs:
+        - title: Software Development Team Lead
+          link: https://jobs.lever.co/getmysa/cc581b9c-45f6-439b-a8b6-3eb45705b4b6
+    - post_date: 2021-06-18
+      jobs:
+        - title: Senior Software Developer
+          link: https://jobs.lever.co/getmysa/098d2f99-55c7-4a91-a95c-13e00c62c4d8
+          remote: true
+- company: heyorca
+  jobs: []
+- company: compusult
+  jobs:
+    - post_date: 2022-03-18
+      jobs:
+        - title: "ROS Developer"
+          link: "https://www.compusult.com/web/guest/careers"
+    - post_date: 2021-09-10
+      jobs:
+        - title: "Software Developers"
+          link: "https://www.compusult.com/web/guest/careers"
+- company: colab
+  jobs: []
+- company: kraken
+  jobs:
+    - post_date: 2022-03-04
+      jobs:
+        - title: "Software Developer – UI"
+          link: "https://jobs.careerbeacon.com/details/software-developer--ui/1714364"
+    -
+      post_date: 2021-06-25
+      jobs:
+        - title: "Software Developer - Sonar Systems"
+          link: "https://jobs.careerbeacon.com/details/software-developer--sonar-systems/1714362"
+- company: verafin
+  jobs:
+    - post_date: 2021-06-25
+      jobs:
+        - title: Software Developer
+          link: https://jobs.lever.co/verafin/7511e22d-6911-4f35-aed8-5ca1b906de00
+- company: rayagency
+  jobs:
+    - post_date: 2022-06-17
+      jobs:
+        - title: "Senior Website Developer"
+          link: "https://rayagency.ca/career-opportunities/full-stack-website-developer/"
+          remote: true
+- company: milkmoovement
+  jobs:
+    - post_date: 2022-08-12
+      jobs:
+        - title: "Software Development Engineer In Test"
+          link: "https://jobs.lever.co/milk-moovement/c1a7952b-8706-4048-8ac2-703b99e63e7f"
+          remote: true
+        - title: "Senior Cloud Engineer"
+          link: "https://jobs.lever.co/milk-moovement/f29ac207-7bec-4269-a8c4-172b080fb4db"
+          remote: true
+    - post_date: 2022-07-15
+      jobs:
+        - title: "Development Team Lead - Quality & Processing"
+          link: "https://jobs.lever.co/milk-moovement/099a3a8a-4861-48d6-8731-b598f887e336"
+          remote: true
+        - title: "Development Team Lead - Finance, Equity, & Balancing"
+          link: "https://jobs.lever.co/milk-moovement/5f548c3b-d079-411d-9965-dd308313c6fc"
+          remote: true
+    - post_date: 2022-04-22
+      jobs:
+        - title: "Software Reliability Engineer"
+          link: "https://jobs.lever.co/milk-moovement/01b4e06e-a9f1-45f4-bdf4-5efc4a3fa730"
+          remote: true
+    - post_date: 2022-02-18
+      jobs:
+        - title: "Full Stack Developer III"
+          link: "https://jobs.lever.co/milk-moovement/da574e79-faeb-4d8d-83af-ca5f70638398"
+          remote: true
+- company: nlhydro
+  jobs:
+    - post_date: 2022-07-08
+      jobs:
+        - title: "Software Specialist – Operational Technology"
+          link: https://www.nlh.nl.ca/HydroWeb/NLHydroWeb.nsf/LookupJobPostingsExternal/NLH-22-119
+- company: govnl
+  jobs:
+    - post_date: 2022-02-11
+      jobs:
+        - title: "Computer Systems Analyst II"
+          link: https://www.hiring.gov.nl.ca/Jobs.aspx/Details/25638
+- company: inspectar
+  jobs:
+    -
+      post_date: 2022-02-11
+      jobs:
+        - title: Software Developer CO-OP Student
+          link: https://www.inspectar.com/career/software-developer-co-op-student
+        - title: C# Developer
+          link: https://www.inspectar.com/career/c-sharp-developer
+        - title: Senior Unity Developer
+          link: https://www.inspectar.com/career/sr-unity-developer
+- company: wood
+  jobs:
+    - post_date: 2022-08-12
+      jobs:
+        - title: ".NET Developer"
+          link: https://woodplc-canadaexternal.icims.com/jobs/110718/job
+- company: pangeo
+  jobs:
+    - post_date: 2022-02-04
+      jobs:
+        - title: "Senior Software Engineer"
+          link: https://www.pangeosubsea.com/job/seeking-senior-software-engineer/
+- company: vmt
+  jobs:
+    - post_date: 2022-06-07
+      jobs:
+        - title: "Software Developer"
+          link: https://www.virtualmarine.ca/careers
+        - title: "Software Developer - Machine Learning"
+          link: https://www.virtualmarine.ca/careers
+    - post_date: 2022-02-04
+      jobs:
+        - title: "Game Developer"
+          link: https://www.virtualmarine.ca/careers
+- company: vish
+  jobs:
+    -
+      post_date: 2020-07-01
+      jobs:
+        - title: Senior Frontend Developer
+          link: https://www.linkedin.com/jobs/view/3139275377/
+- company: vision33
+  jobs:
+    -
+      post_date: 2020-02-27
+      jobs:
+        - title: Software Developer
+          link: https://jobs.vision33.com/careers/31076-Vision33/jobs/13154698-Software-Developer-Open-Canada-Location
+- company: breathesuite
+  jobs: []
+- company: rally
+  jobs:
+    - post_date: 2022-01-14
+      jobs:
+        - title: "Full-Stack Engineer"
+          link: https://rallynow.freshteam.com/jobs/wq8HSn3O1Tdx/full-stack-engineer
+          remote: true
+- company: bluedrop
+  jobs:
+    -
+      post_date: 2022-01-14
+      jobs:
+        - title: Senior Front End Developer
+          link: https://bluedropism.com/senior-front-end-developer-dec-2021/
+- company: avalonholo
+  jobs:
+    - post_date: 2021-06-25
+      jobs:
+        - title: FPGA Designer
+          link: https://www.avalonholographics.com/careers
+    - post_date: 2021-04-22
+      jobs:
+        - title: Software Engineer
+          link: https://www.avalonholographics.com/careers
+- company: telus
+  jobs:
+    -
+      post_date: 2022-08-12
+      jobs:
+        - title: Full Stack Software Developer
+          link: https://careers.telus.com/job/_/559048217/
+- company: target
+  jobs:
+    -
+      post_date: 2021-05-06
+      jobs:
+        - title: Web Developer
+          link: https://targetmarketing.ca/news/web-developer-position/
+- company: ioa
+  jobs:
+    - post_date: 2020-10-10
+      jobs:
+        - title: "Programmer / Analyst"
+          link: "https://ioass.com/careers-1"

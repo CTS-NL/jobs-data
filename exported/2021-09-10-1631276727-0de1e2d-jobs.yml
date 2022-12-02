@@ -1,0 +1,200 @@
+- company: compusult
+  jobs:
+    - post_date: 2021-09-10
+      jobs:
+        - title: "Software Developers"
+          link: "https://www.compusult.com/web/guest/careers"
+- company: milkmoovement
+  jobs:
+    - post_date: 2021-09-10
+      jobs:
+        - title: "Software Security Engineer (Remote)"
+          link: "https://milkmoovement-talent.freshteam.com/jobs/7T3Ty6TbSlgw/software-security-engineer-remote"
+        - title: "Machine Learning Engineer"
+          link: "https://milkmoovement-talent.freshteam.com/jobs/YkPes4ohf_Hj/machine-learning-engineer"
+- company: verafin
+  jobs:
+    - post_date: 2021-09-10
+      jobs:
+        - title: Cloud Administrator Developer (Night Shift)
+          link: https://jobs.lever.co/verafin/546503f7-e1fc-482b-932d-ea915685379a/
+    - post_date: 2021-06-25
+      jobs:
+        - title: Software Developer
+          link: https://jobs.lever.co/verafin/7511e22d-6911-4f35-aed8-5ca1b906de00
+- company: quorum
+  jobs:
+    - post_date: 2021-09-10
+      jobs:
+        - title: Data Architect
+          link: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=978f4299-eee2-4d9e-a9e2-51a1c0ba3aad&ccId=19000101_000001&jobId=389142
+    - post_date: 2021-08-20
+      jobs:
+        - title: Senior Full Stack Developer
+          link: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=978f4299-eee2-4d9e-a9e2-51a1c0ba3aad&ccId=19000101_000001&jobId=392439
+- company: colab
+  jobs:
+    -
+      post_date: 2021-09-10
+      jobs:
+        - title: "Senior QA Analyst"
+          link: "https://colabsoftware.humi.ca/job-board/quality+assurance/7131"
+- company: mysa
+  jobs:
+    -
+      post_date: 2021-09-10
+      jobs:
+        - title: Intermediate QA Analyst
+          link: https://jobs.lever.co/getmysa/3c078690-423f-49d3-9c05-ecb5085bee44
+        - title: Junior QA Analyst
+          link: https://jobs.lever.co/getmysa/c844b939-360d-480d-b129-880a4065bf45
+        - title: Intermediate Embedded Software Developer
+          link: https://jobs.lever.co/getmysa/97b1cfba-a845-4639-b7e7-b6b3cb8500be
+    -
+      post_date: 2021-06-18
+      jobs:
+        - title: Senior Software Developer
+          link: https://jobs.lever.co/getmysa/098d2f99-55c7-4a91-a95c-13e00c62c4d8
+- company: inmarsat
+  jobs:
+    -
+      post_date: 2021-08-20
+      jobs:
+        - title: Analyst Developer
+          link: https://jobs.smartrecruiters.com/Inmarsat/743999764069318-analyst-developer
+    -
+      post_date: 2021-06-11
+      jobs:
+        - title: API Designer
+          link: https://jobs.smartrecruiters.com/Inmarsat/743999751661758-api-designer
+- company: mariner
+  jobs:
+    -
+      post_date: 2021-08-20
+      jobs:
+        - title: Senior Python Developer
+          link: https://www.smartrecruiters.com/MarinerPartnersInc/743999766946572-senior-python-developer
+    -
+      post_date: 2021-07-23
+      jobs:
+        - title: Java Developer
+          link: https://www.smartrecruiters.com/MarinerPartnersInc/743999761966085-java-developer
+    -
+      post_date: 2021-07-16
+      jobs:
+        - title: Software Developer - Automation
+          link: https://www.smartrecruiters.com/MarinerPartnersInc/743999761367189-software-developer-automation
+        - title: AWS Solution Architect
+          link: https://www.smartrecruiters.com/MarinerPartnersInc/743999759823615-aws-solution-architect
+        - title: Senior AWS Java Developer
+          link: https://www.smartrecruiters.com/MarinerPartnersInc/743999759714167-senior-aws-java-developer
+- company: bluedrop
+  jobs:
+    -
+      post_date: 2021-08-20
+      jobs:
+        - title: Senior Dev Ops Engineer
+          link: https://careers.bluedroplearningnetworks.com/?page_id=138
+        - title: Senior Back End Developer
+          link: https://careers.bluedroplearningnetworks.com/?page_id=139
+- company: easternacademy
+  jobs:
+    - post_date: 2021-07-16
+      jobs:
+        - title: Software Developer Instructor
+          link: https://www.technl.ca/job/eastern-academy-st-johns-nl-26-software-developer-instructor/
+- company: totaliq
+  jobs:
+    - post_date: 2021-07-09
+      jobs:
+        - title: "Senior Full Stack Developer"
+          link: "https://yourtotaliq.freshteam.com/jobs/tLjjjz0fjBEQ/senior-full-stack-developer-remote"
+- company: sequencebio
+  jobs:
+    -
+      post_date: 2021-06-25
+      jobs:
+        - title: Senior Computational Biologist
+          link: https://sequencebio.bamboohr.com/jobs/view.php?id=35
+- company: kraken
+  jobs:
+    -
+      post_date: 2021-06-25
+      jobs:
+        - title: "Software Developer – Underwater Vehicle Systems"
+          link: "https://jobs.careerbeacon.com/details/software-developer--underwater-vehicle-systems/1714360"
+        - title: "Software Developer - Sonar Systems"
+          link: "https://jobs.careerbeacon.com/details/software-developer--sonar-systems/1714362"
+        - title: "Software Developer – UI"
+          link: "https://jobs.careerbeacon.com/details/software-developer--ui/1714364"
+        - title: "Software Developer – Vision Systems"
+          link: "https://jobs.careerbeacon.com/details/software-developer--vision-systems/1714366"
+        - title: "Software Quality Assurance Coordinator"
+          link: "https://jobs.careerbeacon.com/details/software-quality-assurance-coordinator/1714367"
+        - title: "Software Quality Assurance Specialist"
+          link: "https://jobs.careerbeacon.com/details/software-quality-assurance-specialist/1726847"
+- company: avalonholo
+  jobs:
+    - post_date: 2021-06-25
+      jobs:
+        - title: FPGA Designer
+          link: https://www.avalonholographics.com/careers
+    - post_date: 2021-04-22
+      jobs:
+        - title: Software Engineer
+          link: https://www.avalonholographics.com/careers
+- company: stantec
+  jobs:
+    -
+      post_date: 2021-05-14
+      jobs:
+        - title: Senior Front-End Developer
+          link: https://stantec.jobs/st-johns-nl/senior-front-end-developer/B78A6D5F3B6B43B5843C7EAF87371876/job/
+- company: inspectar
+  jobs:
+    -
+      post_date: 2021-05-21
+      jobs:
+        - title: Frontend Developer/UI Designer CO-OP Student
+          link: https://www.inspectar.com/career/frontend-co-op-student
+        - title: Backend Developer CO-OP Student
+          link: https://www.inspectar.com/career/backend-developer-co-op-student
+- company: fonemed
+  jobs:
+    -
+      post_date: 2021-05-06
+      jobs:
+        - title: Senior Software Developer
+          link: https://fonemed.applytojob.com/apply/2QDf41IN2X/Senior-Software-Developer
+- company: target
+  jobs:
+    -
+      post_date: 2021-05-06
+      jobs:
+        - title: Web Developer
+          link: https://targetmarketing.ca/news/web-developer-position/
+- company: ioa
+  jobs:
+    - post_date: 2020-10-10
+      jobs:
+        - title: "Programmer / Analyst"
+          link: "https://ioass.com/careers-1"
+- company: vision33
+  jobs:
+    -
+      post_date: 2020-02-27
+      jobs:
+        - title: Software Developer
+          link: https://jobs.vision33.com/careers/31076-Vision33/jobs/13154698-Software-Developer-Open-Canada-Location
+- company: lemur
+  jobs:
+    -
+      post_date: 2019-06-13
+      jobs:
+        - title: "Embedded Systems Engineer / Developer"
+          link: https://www.bluedriver.com/about-us/careers
+    -
+      post_date: 2019-03-07
+      jobs:
+        - title: "Software Developer / Engineer"
+          link: https://www.bluedriver.com/about-us/careers
