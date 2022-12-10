@@ -5,5 +5,6 @@ set -euo pipefail
 company_files="$(echo exported/*-jobs.yml)"
 
 for f in $company_files; do
-	./src/bin/cts.js jobs "$f" ./database.db
+	./src/bin/cts.js jobs "$f" $1
+	echo
 done

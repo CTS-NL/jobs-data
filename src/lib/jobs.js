@@ -5,17 +5,15 @@ const yaml = require('js-yaml');
 const {open} = require('sqlite');
 const sqlite3 = require('sqlite3');
 const moment = require('moment');
+const {stringify} = require('csv-stringify/sync');
 
-// sqlite3.verbose();
+sqlite3.verbose();
 
 async function init(dataFile, databaseFile) {
 	const db = await open({
 		filename: databaseFile,
 		driver: sqlite3.Database
 	});
-	// db.on('trace', (data) => {
-	// 	console.log(data);
-	// });
 
 	if (!await fs.pathExists(dataFile)) {
 		console.error(`The provided data file does not exist: ${dataFile}`);
@@ -97,11 +95,8 @@ let sharedUrls = [
 ]
 
 function getLink(posting) {
-	if (posting.indeed) {
-		return `https://www.indeedjobs.com/breathesuite/jobs/${posting.indeed}`;
-	}
 	if (sharedUrls.includes(posting.link)) {
-		return `${posting.link}#${linkUniqueCounter++}`;
+		return `${posting.link}#${new Date(Date.now()).toISOString()}${linkUniqueCounter++}`;
 	}
 	if (posting.link === undefined) {
 		console.error('No link for posting:', posting);
@@ -113,35 +108,40 @@ function getLink(posting) {
 
 
 function postingDataToQueryObj(company, post_date, posting) {
-	const link = getLink(posting);
 	const posted_date =  moment.utc(post_date);
 	return {
 		':companyId': company.id,
 		':postDate': posted_date.toISOString(),
 		':removedDate': posted_date.add('1', 'week').toISOString(),
 		':title': posting.title,
-		':url': link,
+		':url': posting.link,
 		':remote': posting.remote === true ? 'true' : 'false',
 	};
 }
 
 
-async function findExistingPosting(db, post_date, posting) {
+async function findExistingPosting(db, company_key, post_date, posting) {
 	const link = getLink(posting);
 	const posted_date =  moment.utc(post_date).toISOString();
+	let query = [
+		'SELECT',
+		"   job_posting.*",
+		"FROM job_posting",
+		"JOIN company ON company.id = job_posting.company_id",
+		"WHERE 1=1",
+		"AND company.key = :company_key",
+		"AND (",
+		"  (job_posting.url = :url AND job_posting.title = :title)",
+		"  OR (job_posting.post_date = :date AND job_posting.url = :url)",
+		"  OR (job_posting.post_date = :date AND job_posting.title = :title)",
+		")"
+	].join("\n");
+
 	const existing = await db.get(
-		[
-			'SELECT',
-			"   job_posting.*",
-			"FROM job_posting",
-			"JOIN company ON company.id = job_posting.company_id",
-			"WHERE 1=1",
-			"AND job_posting.post_date = :date AND (",
-			"   job_posting.url = :url OR job_posting.title = :title",
-			")"
-		].join("\n"),
+		query,
 		{
 			':url': link,
+			':company_key': company_key,
 			':title': posting.title,
 			':date': posted_date,
 		}
@@ -161,6 +161,23 @@ async function insertNewPosting(db, company, post_date, posting) {
 			'VALUES (:companyId, :postDate, :removedDate, :title, :url, :remote)',
 		].join("\n"),
 		postingDataToQueryObj(company, post_date, posting)
+	);
+}
+
+async function insertPostingChange(db, date, existing, posting) {
+	return db.run(
+		[
+			'INSERT INTO job_posting_change (job_posting_id, update_at, old_title, new_title, old_url, new_url)',
+			'VALUES (:jobPostingId, :updateAt, :oldTitle, :newTitle, :oldUrl, :newUrl)',
+		].join("\n"),
+		{
+			':updateAt': date,
+			':jobPostingId': existing.id,
+			':oldTitle': existing.title,
+			':newTitle': posting.title,
+			':oldUrl': existing.url,
+			':newUrl': posting.link,
+		}
 	);
 }
 
@@ -208,6 +225,8 @@ module.exports.syncCompanies = async (dataFile, databaseFile) => {
 module.exports.syncJobs = async (dataFile, databaseFile) => {
 	const {db, data} = await init(dataFile, databaseFile);
 
+	const startCount = await db.get("SELECT COUNT(id) as total FROM job_posting");
+
 	let posting_date = moment.utc('2000-01-01T00:00:00Z');
 	for (const companyPostings of data) {
 		for (const jobPostings of companyPostings.jobs) {
@@ -220,6 +239,7 @@ module.exports.syncJobs = async (dataFile, databaseFile) => {
 
 	console.log(`Updating posts for: ${posting_date}`);
 
+	let updateCounter = 0;
 	for (const companyPostings of data) {
 		const company = await findExistingCompany(db, companyPostings.company);
 
@@ -231,9 +251,18 @@ module.exports.syncJobs = async (dataFile, databaseFile) => {
 
 		for (const jobPostings of companyPostings.jobs) {
 			for (const posting of jobPostings.jobs) {
-				const existing = await findExistingPosting(db, jobPostings.post_date, posting);
+				if (posting.indeed) {
+					posting.link = `https://ca.indeed.com/viewjob?jk=${posting.indeed}`;
+				}
+				posting.company_id = company.id;
+				posting.post_date = jobPostings.post_date;
+				const existing = await findExistingPosting(db, companyPostings.company, jobPostings.post_date, posting);
 				if (existing !== undefined) {
-					await updatePosting(db, existing.id, company, jobPostings.post_date, posting_date, posting);
+					if (existing.title !== posting.title || existing.url !== posting.link) {
+						await insertPostingChange(db, posting_date, existing, posting);
+						updateCounter += 1;
+					}
+					await updatePosting(db, existing.id, company, existing.post_date, posting_date, posting);
 				}
 				else {
 					await insertNewPosting(db, company, jobPostings.post_date, posting);
@@ -241,4 +270,60 @@ module.exports.syncJobs = async (dataFile, databaseFile) => {
 			}
 		}
 	}
+	const endCount = await db.get("SELECT COUNT(id) AS total FROM job_posting");
+
+	console.log(`${updateCounter} postings updated. ${endCount.total - startCount.total} added for a total of ${endCount.total}`);
 };
+
+module.exports.csvExport = async (databaseFile, csvFile) => {
+	const db = await open({
+		filename: databaseFile,
+		driver: sqlite3.Database
+	});
+
+	if (!await fs.pathExists(csvFile)) {
+		console.error(`The provided data file does not exist: ${csvFile}`);
+		process.exitCode = 1;
+		return;
+	}
+
+	let data = [[
+		"CompanyKey", "CompanyName", "IsCompanyRemote", "IsCompanyLocal", "IsCompanyCanadian", "PostDate", "RemovedDate", "JobTitle", "JobUrl", "IsRemote"
+	]];
+
+	let dbData = await db.all([
+		"SELECT",
+		"  c.key as CompanyKey,",
+		"  c.name as CompanyName,",
+		"  c.remote as IsCompanyRemote,",
+		"  c.local as IsCompanyLocal,",
+		"  c.canadian as IsCompanyCanadian,",
+		"  j.post_date as PostDate,",
+		"  j.removed_date as RemovedDate,",
+		"  j.title as JobTitle,",
+		"  j.url as JobUrl,",
+		"  j.remote as IsRemote",
+		"FROM job_posting j",
+		"JOIN company c on c.id = j.company_id",
+	].join("\n"));
+
+	for (const record of dbData) {
+		data.push([
+			record.CompanyKey,
+			record.CompanyName,
+			record.IsCompanyRemote,
+			record.IsCompanyLocal,
+			record.IsCompanyCanadian,
+			record.PostDate,
+			record.RemovedDate,
+			record.JobTitle,
+			record.JobUrl,
+			record.IsRemote,
+		])
+	}
+	const output = stringify(data);
+
+	await fs.writeFile(csvFile, output);
+
+	console.log("CSV file written");
+}

@@ -22,7 +22,7 @@ module.exports = async (databaseFile) => {
 			")"
 		]
 		.join('\n')
-	)
+	);
 
 	await db.exec(
 		[
@@ -38,5 +38,20 @@ module.exports = async (databaseFile) => {
 			")"
 		]
 		.join('\n')
-	)
+	);
+	await db.exec(
+		[
+			'CREATE TABLE job_posting_change (',
+			'   id INTEGER PRIMARY KEY NOT NULL,',
+			"   job_posting_id INTEGER NOT NULL,",
+			"   update_at TEXT NOT NULL,",
+			"   old_title TEXT NOT NULL,",
+			"   new_title TEXT NOT NULL,",
+			"   old_url TEXT NOT NULL,",
+			"   new_url TEXT NOT NULL,",
+			"   FOREIGN KEY(job_posting_id) REFERENCES job_posting(id)",
+			")"
+		]
+		.join('\n')
+	);
 };

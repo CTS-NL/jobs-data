@@ -1,5 +1,7 @@
 #!/usr/bin/env bash
 
+set -euo pipefail
+
 commits="$(git --git-dir "$1.git" log --pretty=format:"%h" --follow -- _data/"$2".yml)"
 
 export_dir="$PWD"/exported/
