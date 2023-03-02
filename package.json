@@ -10,7 +10,7 @@
     "export:latest": "npm run export:jobs:latest && npm run export:companies:latest",
     "export:jobs:latest": "./src/bin/export-latest.bash ../cts-new-site/ jobs ../cts-new-site/_data/database.db",
     "export:companies:latest": "./src/bin/export-latest.bash ../cts-new-site/ companies ../cts-new-site/_data/database.db",
-    "load:latest": "npm run load:jobs:latest && npm run load:companies:latest && npm run csv:export",
+    "load:latest": "npm run load:companies:latest && npm run load:jobs:latest && npm run csv:export",
     "load:jobs:latest": "./src/bin/cts.js jobs ../cts-new-site/_data/jobs.yml ../cts-new-site/_data/database.db",
     "load:companies:latest": "./src/bin/cts.js companies ../cts-new-site/_data/companies.yml ../cts-new-site/_data/database.db",
     "csv:export": "./src/bin/cts.js csv ../cts-new-site/_data/database.db ../cts-new-site/_data/job_mostings.csv"
