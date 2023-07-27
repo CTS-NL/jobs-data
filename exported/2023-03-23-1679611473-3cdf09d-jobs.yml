@@ -1,0 +1,318 @@
+- company: atlanticlottery
+  jobs: []
+- company: aker
+  jobs: []
+- company: cna
+  jobs:
+      - post_date: 2023-03-17
+        jobs:
+          - title: Instructor - Software Development
+            link: https://ps-web3.cna.nl.ca/psp/EXTERNAL/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&SiteId=4&JobOpeningId=14493&PostingSeq=3
+            remote: false
+- company: oliverpos
+  jobs: []
+- company: easternhealth
+  jobs:
+    - post_date: 2022-06-24
+      jobs:
+        - title: Computer Programmer/Analyst
+          link: https://employment.easternhealth.ca/eRecruit/VacancyDetail.aspx?VacancyUID=000000089318
+          remote: true
+- company: fonemed
+  jobs: []
+- company: nlchi
+  jobs: []
+- company: reportmate
+  jobs: []
+- company: rutter
+  jobs: []
+- company: hatch
+  jobs: []
+- company: sequencebio
+  jobs:
+    -
+      post_date: 2022-12-02
+      jobs:
+        - title: Bioinformatician
+          link: https://sequencebio.bamboohr.com/careers/54
+          remote: true
+        - title: Computational Biologist
+          link: https://sequencebio.bamboohr.com/careers/53
+          remote: true
+    -
+      post_date: 2022-04-15
+      jobs:
+        - title: Security Analyst
+          link: https://sequencebio.bamboohr.com/careers/48
+          remote: true
+        - title: Cloud Developer
+          link: https://sequencebio.bamboohr.com/careers/49
+          remote: true
+        - title: Web Application Developer
+          link: https://sequencebio.bamboohr.com/careers/46
+          remote: true
+        - title: Salesforce Developer
+          link: https://sequencebio.bamboohr.com/careers/50
+          remote: true
+        - title: Experienced AWS Infrastructure Engineer
+          link: https://sequencebio.bamboohr.com/careers/47
+          remote: true
+- company: siftmed
+  jobs: []
+- company: strobeltek
+  jobs:
+    - post_date: 2022-06-24
+      jobs:
+        - title: Software Engineer/Mid Electrical
+          link: https://strobeltek.com/careers/
+          remote: false
+        - title: Senior Software Developer
+          link: https://strobeltek.com/careers/
+          remote: false
+- company: stantec
+  jobs: []
+- company: triware
+  jobs: []
+- company: radient
+  jobs:
+    - post_date: 2023-03-02
+      jobs:
+        - title: Software Quality Assurance Specialist
+          link: https://ca.indeed.com/viewjob?jk=88a12e5a921ba347
+          remote: true
+- company: quorum
+  jobs: []
+- company: enaimco
+  jobs: []
+- company: inmarsat
+  jobs: []
+- company: bluedriver
+  jobs: []
+- company: cityofstjohns
+  jobs: []
+- company: mariner
+  jobs:
+    - post_date: 2023-03-23
+      jobs:
+        - title: Senior Java Full Stack Developer
+          link: https://www.smartrecruiters.com/MarinerPartnersInc/743999894850765-senior-java-full-stack-developer
+          remote: true
+    - post_date: 2022-06-24
+      jobs:
+        - title: .NET Developer
+          link: https://www.smartrecruiters.com/MarinerPartnersInc/743999834056922--net-developer
+          remote: true
+    - post_date: 2022-01-28
+      jobs:
+        - title: Senior Python Developer
+          link: https://www.smartrecruiters.com/MarinerPartnersInc/743999799612047-senior-python-developer
+          remote: true
+- company: nlc
+  jobs: []
+- company: northatlantic
+  jobs: []
+- company: genoa
+  jobs: []
+- company: mun
+  jobs: []
+- company: ccore
+  jobs: []
+- company: otherocean
+  jobs:
+    - post_date: 2022-03-18
+      jobs:
+        - title: Senior Programmer
+          link: https://otherocean.com/jobs/Senior_Programmer.pdf
+          remote: true
+- company: bluecross
+  jobs:
+    - post_date: 2023-03-17
+      jobs:
+        - title: Sr. Programmer/Analyst
+          link: https://jobs.medaviebc.ca/job/_/568608317/
+          remote: true
+    - post_date: 2023-01-20
+      jobs:
+        - title: Sr. Programmer/Analyst
+          link: https://jobs.medaviebc.ca/job/_/566888517/
+          remote: true
+    - post_date: 2022-06-10
+      jobs:
+        - title: Test Automation Architect
+          link: https://jobs.medaviebc.ca/job/_/559366117/
+          remote: true
+- company: mysa
+  jobs: []
+- company: heyorca
+  jobs: []
+- company: compusult
+  jobs:
+    - post_date: 2021-09-10
+      jobs:
+        - title: "Software Developers"
+          link: "https://www.compusult.com/web/guest/careers"
+- company: colab
+  jobs:
+    - post_date: 2023-02-10
+      jobs:
+        - title: VP Software Engineering
+          link: https://colabsoftware.applytojobs.ca/development/19173
+          remote: true
+- company: kraken
+  jobs:
+    - post_date: 2023-01-28
+      jobs:
+        - title: Software Developers
+          link: https://jobs.careerbeacon.com/details/software-developers/1876443
+    - post_date: 2022-12-16
+      jobs:
+        - title: Junior/Intermediate Firmware Engineer
+          link: https://jobs.careerbeacon.com/details/juniorintermediate-firmware-engineer/1861591
+- company: verafin
+  jobs:
+    - post_date: 2021-06-25
+      jobs:
+        - title: Software Developer
+          link: https://jobs.lever.co/verafin/7511e22d-6911-4f35-aed8-5ca1b906de00
+- company: rayagency
+  jobs: []
+- company: milkmoovement
+  jobs:
+    - post_date: 2022-12-02
+      jobs:
+        - title: "Senior Full Stack Developer"
+          link: "https://jobs.lever.co/milk-moovement/f03643f5-2690-4bb3-a8f8-32870792a4a2"
+          remote: true
+    - post_date: 2022-02-18
+      jobs:
+        - title: "Full Stack Developer III"
+          link: "https://jobs.lever.co/milk-moovement/d21c6a6a-3295-41ce-ab1b-bff880c92a84"
+          remote: true
+- company: nlhydro
+  jobs: []
+- company: govnl
+  jobs: []
+- company: opasmobile
+  jobs:
+    - post_date: 2023-01-13
+      jobs:
+        - title: Junior/Intermediate Backend Developer (NodeJS)
+          link: https://technl.ca/job/opas-mobile-st-johns-nl-remote-options-full-time-contract-part-time-temporary-junior-intermediate-backend-developer-nodejs/
+        - title: Junior/Intermediate React Native Developer
+          link: https://technl.ca/job/opas-mobile-st-johns-nl-remote-options-full-time-contract-part-time-temporary-junior-intermediate-react-native-developer/
+- company: inspectar
+  jobs:
+    - post_date: 2022-09-23
+      jobs:
+        - title: QA Engineer CO-OP Student
+          link: https://www.inspectar.com/career/qa-engineer-co-op-student
+    - post_date: 2022-02-11
+      jobs:
+        - title: Software Developer CO-OP Student
+          link: https://www.inspectar.com/career/software-developer-co-op-student
+        - title: C# Developer
+          link: https://www.inspectar.com/career/c-sharp-developer
+        - title: Senior Unity Developer
+          link: https://www.inspectar.com/career/sr-unity-developer
+- company: intactlab
+  jobs:
+    - post_date: 2023-03-02
+      jobs:
+        - title: "Backend Java Developer (Senior/Intermediate)"
+          link: https://careers.intactfc.com/ca/en/job/R132664
+        - title: "Senior Salesforce Developer"
+          link: https://careers.intactfc.com/ca/en/job/R130564
+        - title: "Manager, Software Development"
+          link: https://careers.intactfc.com/ca/en/job/R130696
+        - title: "Android Developer (Senior/Specialist/Tech Lead)"
+          link: https://careers.intactfc.com/ca/en/job/R132677
+    - post_date: 2023-02-17
+      jobs:
+        - title: "iOS Developer (Senior/Specialist/Tech Lead)"
+          link: https://careers.intactfc.com/ca/en/job/R132678/iOS-Developer-Senior-Specialist-Tech-Lead
+        - title: "Java Technical Lead"
+          link: https://careers.intactfc.com/ca/en/job/R132675
+- company: workplacenl
+  jobs:
+    - post_date: 2023-03-23
+      jobs:
+        - title: "Full Stack Developer"
+          link: https://www.careerbeacon.com/en/job/1890800/workplacenl/full-stack-developer/st-john-s
+- company: wood
+  jobs: []
+- company: pangeo
+  jobs: []
+- company: q5
+  jobs: []
+- company: vmt
+  jobs:
+    - post_date: 2022-12-02
+      jobs:
+        - title: "Game Developer"
+          link: https://www.virtualmarine.ca/careers
+    - post_date: 2022-06-07
+      jobs:
+        - title: "Software Developer"
+          link: https://www.virtualmarine.ca/careers
+        - title: "Software Developer - Machine Learning"
+          link: https://www.virtualmarine.ca/careers
+- company: vish
+  jobs:
+    - post_date: 2022-11-18
+      jobs:
+        - title: "Full-Stack Developer"
+          link: https://getvish.com/about-vish/careers/#1629843513960-9ebd9d30-d15f
+        - title: "Development Team lead"
+          link: https://getvish.com/about-vish/careers/#1630353138970-ed33f37f-a467
+- company: vision33
+  jobs:
+    - post_date: 2023-03-02
+      jobs:
+        - title: Developer
+          link: https://jobs.vision33.com/careers/31076-Vision33/jobs/15903044-Developer-Saltbox
+    - post_date: 2022-11-04
+      jobs:
+        - title: Software Developer
+          link: https://jobs.vision33.com/careers/31076-Vision33/jobs/13154698-Software-Developer-General-Application
+- company: breathesuite
+  jobs: []
+- company: rally
+  jobs:
+    - post_date: 2022-01-14
+      jobs:
+        - title: "Full-Stack Engineer"
+          link: https://rallynow.freshteam.com/jobs/wq8HSn3O1Tdx/full-stack-engineer
+          remote: true
+- company: bluedrop
+  jobs:
+    -
+      post_date: 2023-01-20
+      jobs:
+        - title: Intermediate DevOps Engineer
+          link: https://bluedropism.com/intermediate-dev-ops-engineer-jan-2023/
+- company: avalonholo
+  jobs:
+    - post_date: 2021-06-25
+      jobs:
+        - title: FPGA Designer
+          link: https://www.avalonholographics.com/careers
+    - post_date: 2021-04-22
+      jobs:
+        - title: Software Engineer
+          link: https://www.avalonholographics.com/careers
+- company: telus
+  jobs: []
+- company: target
+  jobs: []
+- company: ioa
+  jobs:
+    - post_date: 2020-10-10
+      jobs:
+        - title: "Programmer / Analyst"
+          link: "https://ioass.com/careers-1"
+- company: zorbits
+  jobs:
+    - post_date: 2022-11-25
+      jobs:
+        - title: Game Developer
+          link: https://www.paycomonline.net/v4/ats/web.php/jobs/ViewJobDetails?job=65762&clientkey=5A4F90A76FC25176D905F555FF2C8ACC
